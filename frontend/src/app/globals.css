@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.outlined-input {
+  border: 1px solid #ccc;
+  padding: 8px; 
+  border-radius: 4px;
+}
